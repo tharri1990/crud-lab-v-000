@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
- 
+
  class Review extends Component {
 
   deleteReview() {
@@ -18,5 +18,5 @@ import React, { Component } from 'react'
     )
    }
 }
- 
+
 export default Review
