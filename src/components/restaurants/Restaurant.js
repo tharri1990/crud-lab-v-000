@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import ReviewInput from '../reviews/ReviewInput'
- 
+
  class Restaurant extends Component {
 
   deleteRestaurant() {
@@ -22,5 +22,5 @@ import ReviewInput from '../reviews/ReviewInput'
     )
    }
 }
-  
+
 export default Restaurant
